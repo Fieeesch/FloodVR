@@ -1053,9 +1053,6 @@ MonoBehaviour:
   - name: Keller
     normal: {fileID: 2100000, guid: 4a3771032ea2fa8468fc811e4f621a19, type: 2}
     flooded: {fileID: 2100000, guid: 572ea3c0abe7c984cb020408a0ceb650, type: 2}
-  - name: Office
-    normal: {fileID: 2100000, guid: 79351f694ba9f4043a65dbd6d0f8af11, type: 2}
-    flooded: {fileID: 2100000, guid: 749f439d9b462ff4da380db00f7542bb, type: 2}
   - name: Outside
     normal: {fileID: 2100000, guid: a5d5d4c57c777304d8976c35d6305579, type: 2}
     flooded: {fileID: 2100000, guid: 9fcc70bf3f335f4459a551c521252199, type: 2}
