@@ -1,0 +1,55 @@
+{
+    "version": 1,
+    "name": "SkyboxControls",
+    "maps": [
+        {
+            "name": "Skybox",
+            "id": "ecb780fc-36ed-4e59-8406-e7f8e389b75c",
+            "actions": [
+                {
+                    "name": "Cycle",
+                    "type": "Value",
+                    "id": "4150406b-bc6f-4cc1-b124-86a70c83457e",
+                    "expectedControlType": "Vector2",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                },
+                {
+                    "name": "ToggleFlood",
+                    "type": "Button",
+                    "id": "cfe8be10-e53f-4168-ad44-fd1c3adc5249",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "91274519-ef65-4d47-9ebb-b49bf100bf61",
+                    "path": "<XRController>{RightHand}/thumbstick",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Cycle",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "c66577b4-5a0a-484a-a4c0-3aa7b64a4132",
+                    "path": "<XRController>{RightHand}/triggerPressed",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "ToggleFlood",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
