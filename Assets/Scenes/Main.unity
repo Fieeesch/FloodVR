@@ -1047,15 +1047,42 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::SkyboxManager
   skyboxes:
-  - name: Garage
-    normal: {fileID: 2100000, guid: 6430d6e2868d5664c997b5e688b92baf, type: 2}
-    flooded: {fileID: 2100000, guid: 568c371adead9c64985a2602480bf392, type: 2}
-  - name: Keller
-    normal: {fileID: 2100000, guid: 4a3771032ea2fa8468fc811e4f621a19, type: 2}
-    flooded: {fileID: 2100000, guid: 572ea3c0abe7c984cb020408a0ceb650, type: 2}
-  - name: Outside
-    normal: {fileID: 2100000, guid: a5d5d4c57c777304d8976c35d6305579, type: 2}
-    flooded: {fileID: 2100000, guid: 9fcc70bf3f335f4459a551c521252199, type: 2}
+  - name: Ahrweiler1
+    normal: {fileID: 2100000, guid: 127f2c528980e7c47aea8800c7cb7c47, type: 2}
+    flooded: {fileID: 2100000, guid: ba70635aa30ff444f8c493a8bb9f5d6a, type: 2}
+  - name: Ahrweiler2
+    normal: {fileID: 2100000, guid: 6fe6c8e904846e24b97deb69ca195860, type: 2}
+    flooded: {fileID: 2100000, guid: 8964f75dadd9fbe4dabe9f5313fad27f, type: 2}
+  - name: Auf den Steinen
+    normal: {fileID: 2100000, guid: 837d94c1072f6e549ba89693e37df731, type: 2}
+    flooded: {fileID: 2100000, guid: 67177961b87b72c41b3299f7d80e1b94, type: 2}
+  - name: Birkenweg1
+    normal: {fileID: 2100000, guid: 795219b8ee202a646a6be0d28fe9b8de, type: 2}
+    flooded: {fileID: 2100000, guid: b3fffdcb2985c1c4fbf4d1fcb41d3646, type: 2}
+  - name: Birkenweg2
+    normal: {fileID: 2100000, guid: ee38fa13b75e51742a57c2608af0a403, type: 2}
+    flooded: {fileID: 2100000, guid: 02ae49b5052b78e46af6f3933f7a6ff7, type: 2}
+  - name: Hohenzollern
+    normal: {fileID: 2100000, guid: d643b2a2ed9a7c84e9710c958c2f6de5, type: 2}
+    flooded: {fileID: 2100000, guid: 609b710a643f5614d9f30756d3177440, type: 2}
+  - name: HSRM-Keller
+    normal: {fileID: 2100000, guid: 29d75b3a2218e464398297a9b9289b2b, type: 2}
+    flooded: {fileID: 2100000, guid: 85044c1baf587554ab23b093c97e756c, type: 2}
+  - name: Kurpark
+    normal: {fileID: 2100000, guid: 5ccc4557a3133f347951afcf196738af, type: 2}
+    flooded: {fileID: 2100000, guid: a45e58c9cc1ec684590d93168f0124ca, type: 2}
+  - name: Kursaal
+    normal: {fileID: 2100000, guid: cc8aab593ad629a4da02005e0cdd97af, type: 2}
+    flooded: {fileID: 2100000, guid: e1e8a466f004164468a724e41594c698, type: 2}
+  - name: Platz an der Linde
+    normal: {fileID: 2100000, guid: 8c282ddcfb238c842b476a158dbac6c4, type: 2}
+    flooded: {fileID: 2100000, guid: 14fa47a9531935946b7b3e60ed425b12, type: 2}
+  - name: Telegrafenstr1
+    normal: {fileID: 2100000, guid: b9dd1d1d182da544fbf4b7b766cc9120, type: 2}
+    flooded: {fileID: 2100000, guid: 71d891e86a3ccb145a7cd58ff4e5742a, type: 2}
+  - name: Telegrafenstr2
+    normal: {fileID: 2100000, guid: 47ba875ddc3a9bd489f1315d76b29337, type: 2}
+    flooded: {fileID: 2100000, guid: 8d84b62fd3445d649a4762f67eab89f1, type: 2}
   startIndex: 0
   startFlooded: 0
 --- !u!4 &1895021781
